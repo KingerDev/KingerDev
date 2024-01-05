@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kinger, a Software Developer</h1>
+<h1 align="center">Hi 👋, I'm Martin, a Software Developer</h1>
 <h3 align="center">Transforming Ideas into Software Realities</h3>
 
 - 👨‍💻 All of my projects are available at [https://kinger.tech](https://kinger.tech)
