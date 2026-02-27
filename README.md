@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin, a Software Developer</h1>
 <h3 align="center">Transforming Ideas into Software Realities</h3>
 
-- 👨‍💻 All of my projects are available at [https://kinger.tech](https://kinger.tech)
+- 👨‍💻 Where to find me? [https://kinger.dev](https://kinger.dev)
 
-- 📫 How to reach me **mail@kinger.tech**
+- 📫 How to reach me **mail@kinger.dev**
 
-- 📄 Know about my experiences [https://portfolio.kinger.tech/resume.pdf](https://portfolio.kinger.tech/resume.pdf)
+- 📄 Know about my experiences [https://portfolio.kinger.dev/resume.pdf](https://portfolio.kinger.dev/resume.pdf)
 
 - ⚡ Fun fact: **I am a huge Formula 1 fan**
 
